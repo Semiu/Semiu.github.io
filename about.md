@@ -1,9 +1,9 @@
-### About
+## About
 
-#### The Blog
+### The Blog
 
 -- Under construction --
 
-#### Me
+### Me
 -- Under construction --
 
