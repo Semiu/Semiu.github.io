@@ -1,7 +1,7 @@
 ## About
 
 ### The Blog
-![](images/csbooks.JPG)
+![](images/csbooks.jpg)
 
 A blog on ***Machine Learning and Python for Cybersecurity***, as the name signifies, primarily focusses on how machine learning and Python are applied in the Cybersecurity field. This means, while machine learning, Python, and cybersecurity would be discussed independently when essential, their intersections would be prioritized. 
 
