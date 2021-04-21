@@ -10,7 +10,7 @@ The term machine learning, as used here, includes deep learning, and other corol
 ---
 
 ### Me
-![](images/selfimage.JPG) I am a third year Ph.D. candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). My dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is proposing an automated detection model for security vulnerabilities in program source code. 
+I am a third year Ph.D. candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). My dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is proposing an automated detection model for security vulnerabilities in program source code. 
 
 This blog is my way of participating in infosec discussion and enriching my learning journey.
 
