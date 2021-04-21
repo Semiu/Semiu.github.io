@@ -1,7 +1,7 @@
 ## About
 
 ### The Blog
-![](csbooks.JPG)
+![](images/csbooks.JPG)
 
 A blog on ***Machine Learning and Python for Cybersecurity***, as the name signifies, primarily focusses on how machine learning and Python are applied in the Cybersecurity field. This means, while machine learning, Python, and cybersecurity would be discussed independently when essential, their intersections would be prioritized. 
 
@@ -10,7 +10,7 @@ The term machine learning, as used here, includes deep learning, and other corol
 ---
 
 ### Me
-![](selfimage.JPG)
+![](images/selfimage.JPG)
 
 I am a third year Ph.D. candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). My dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is proposing an automated detection model for security vulnerabilities in program source code. 
 
