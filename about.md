@@ -10,12 +10,16 @@ The term machine learning, as used here, includes deep learning, and other corol
 ---
 
 ### Me
-I am a third year Ph.D. candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). My dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is proposing an automated detection model for security vulnerabilities in program source code. 
+I am a fourth year Ph.D./MS candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). 
+
+My MS Thesis, under the supervision of [Dr. Malik Muhammad](http://cs.ndsu.nodak.edu/~mmalik/#), [analyzed the top 100 GitHub's Java projects to investigate the presence of vulnerabilities](https://github.com/Semiu/java-codesecurity). 
+
+My Ph.D. dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is proposing an automated detection model for security vulnerabilities in program source code. 
 
 This blog is my way of participating in infosec discussion and enriching my learning journey.
 
 ![](images/selfimage.JPG)
 
-I had previously done a Ph.D.-awarding research in information visualization, at [Universiti Utara Malaysia](http://www.uum.edu.my/). This and other research can be found on my [Google Scholar page](https://scholar.google.com/citations?user=ROaTHt0AAAAJ&hl=en).
+I had previously done a Ph.D.-awarding research in information visualization, at [Universiti Utara Malaysia](http://www.uum.edu.my/). This, and other research, can be found on my [Google Scholar page](https://scholar.google.com/citations?user=ROaTHt0AAAAJ&hl=en).
 
 Thank you for reading!
