@@ -1,22 +1,18 @@
 ## About
 
-### The Blog
-![](images/csbooks.jpg)
-
-A blog on ***Machine Learning and Python for Cybersecurity***, as the name signifies, primarily focusses on how machine learning and Python are applied in the Cybersecurity field. This means, while machine learning, Python, and cybersecurity would be discussed independently when essential, their intersections would be prioritized. 
-
-The term machine learning, as used here, includes deep learning, and other corollary data science techniques. Cybersecurity entails all its sub-classes which includes, but not limited to, areas like software security, penetration testing, malware analysis, intrusion detection, vulnerability detection, and offensive security.
-
 ---
 
 ### Me
-I am a fourth year Ph.D./MS candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). 
+I currently work as a software engineer - machine learning and data engineering, with International Consulting Associates, Inc. My primary responsibilities are making quality data readily available for machine learning (ML) modeling and deploying developed ML models into production.
 
-My MS Thesis, under the supervision of [Dr. Malik Muhammad](http://cs.ndsu.nodak.edu/~mmalik/#), [analyzed the top 100 GitHub's Java projects to investigate the presence of vulnerabilities](https://github.com/Semiu/java-codesecurity). 
+I am a fifth year Ph.D./MS candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). 
 
-My Ph.D. dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is proposing an automated detection model for security vulnerabilities in program source code. 
+My MS Thesis, under the supervision of [Dr. Malik Muhammad](http://cs.ndsu.nodak.edu/~mmalik/#), [analyzed the top 100 GitHub's Java projects to investigate the presence of vulnerabilities](https://github.com/Semiu/java-codesecurity). I defended this thesis on June 29, 2022.
+![](images/mscdefense.JPG)
 
-This blog is my way of participating in infosec discussion and enriching my learning journey.
+My Ph.D. dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is exploring machine and deep learning models for automated detection of security vulnerabilities in Java program source code. 
+
+This blog is my way of documenting my writings and sharing them with you all.
 
 ![](images/selfimage.JPG)
 
