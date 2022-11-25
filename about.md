@@ -8,7 +8,7 @@ I currently work as a software engineer - machine learning and data engineering,
 I am a fifth year Ph.D./MS candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). 
 
 My MS Thesis, under the supervision of [Dr. Malik Muhammad](http://cs.ndsu.nodak.edu/~mmalik/#), [analyzed the top 100 GitHub's Java projects to investigate the presence of vulnerabilities](https://github.com/Semiu/java-codesecurity). I defended this thesis on June 29, 2022.
-![](images/mscdefense.JPG)
+![](images/mscdefense.jpg)
 
 My Ph.D. dissertation, under the supervision of [Dr. Simone Ludwig](http://www.cs.ndsu.nodak.edu/~siludwig/contact.html), is exploring machine and deep learning models for automated detection of security vulnerabilities in Java program source code. 
 
