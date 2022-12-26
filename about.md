@@ -3,7 +3,7 @@
 ---
 I currently work as a software engineer - machine learning and data engineering, with International Consulting Associates, Inc. 
 
-[![](images/linkedin.png)](https://www.linkedin.com/in/semiu-akanmu-a3983543/)
+[![](images/linkedin.png "Let's connect")](https://www.linkedin.com/in/semiu-akanmu-a3983543/)
 
 My primary responsibilities are making quality data readily available for machine learning (ML) modeling, building and deploying data pipelines and ML models into production.
 
