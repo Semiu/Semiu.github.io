@@ -18,7 +18,7 @@ I had previously done a Ph.D.-awarding research in information visualization, gr
 
 ![](images/uumphd.jpg "With my first PhD advisor after my viva voce")
 
-My academic research publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=ROaTHt0AAAAJ&hl=en) and my resume [here](https:www.github.com/Semiu/Semiu.github.io/blob/master/assets/SemiuAkanmuResume.pdf).
+My academic research publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=ROaTHt0AAAAJ&hl=en) and my resume [here](https://github.com/Semiu/Semiu.github.io/blob/master/assets/SemiuAkanmuResume.pdf).
 
 This blog is my way of documenting my learnings and sharing them with you all.
 
