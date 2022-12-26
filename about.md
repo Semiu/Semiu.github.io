@@ -1,4 +1,6 @@
-## About Me                                                                          [![](images/linkedin.png)](https://www.linkedin.com/in/semiu-akanmu-a3983543/)
+## About Me                                                                          
+
+[![](images/linkedin.png)](https://www.linkedin.com/in/semiu-akanmu-a3983543/)
 
 ---
 I currently work as a software engineer - machine learning and data engineering, with International Consulting Associates, Inc. 
