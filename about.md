@@ -17,7 +17,7 @@ This blog is my way of documenting my writings and sharing them with you all.
 ![](images/selfimage.JPG)
 
 I had previously done a Ph.D.-awarding research in information visualization, at [Universiti Utara Malaysia](http://www.uum.edu.my/). 
-![](images/uumphd.jpg)
+![](images/uumphd)
 
 My academic research publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=ROaTHt0AAAAJ&hl=en).
 
