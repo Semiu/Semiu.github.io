@@ -20,8 +20,6 @@ I had previously done a Ph.D.-awarding research in information visualization, gr
 
 My academic research publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=ROaTHt0AAAAJ&hl=en) and my resume can be downloaded [here](https://github.com/Semiu/Semiu.github.io/blob/master/assets/SemiuAkanmuResume.pdf "download").
 
-<a href="https://github.com/Semiu/Semiu.github.io/blob/master/assets/SemiuAkanmuResume.pdf" download>Download</a>
-
 This blog is my way of documenting my learnings and sharing them with you all.
 
 Thank you for reading!
