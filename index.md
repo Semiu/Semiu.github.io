@@ -11,3 +11,5 @@ The non-technical would be covering book review, travelogue, opinion essays, and
 The [About](https://semiu.github.io/about.html) page provides more details on who I am and what I do. 
 
 I would be providing a mailing list subscription soon if you wish to be kept in the loop of my writings.
+
+I have essays on my [now-rested blog. You may want to check it out.](https://semiuakanmu.blogspot.com/)
