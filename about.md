@@ -3,7 +3,7 @@
 ---
 I currently work as a software engineer - machine learning and data engineering, with International Consulting Associates, Inc. 
 
-My primary responsibilities are making quality data readily available for machine learning (ML) modeling, building and deploying data pipelines and developed ML models into production.
+My primary responsibilities are making quality data readily available for machine learning (ML) modeling, building and deploying data pipelines and ML models into production.
 
 I am a fifth year Ph.D./MS candidate of Software Engineering (with minor in Cybersecurity) in [North Dakota State University's Department of Computer Science](https://www.ndsu.edu/cs/). 
 
