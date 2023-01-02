@@ -1,0 +1,36 @@
+
+### Turbocharge your Machine Learning journey with these books
+
+In my last post on the highlights of 2022, I mentioned the technical books that were part of my reading list. 
+In this post, I want to give deserved honest reviews to  Abhishek Thakur’s [Approaching (Almost) Any Machine Learning Problem](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem/dp/8269211508/ref=sr_1_1?crid=YKMIDRLV7IFM&keywords=approaching+almost+any+machine+learning+problem&qid=1672602783&s=books&sprefix=approaching+%2Cstripbooks%2C139&sr=1-1) and Sebastian et al.’s 
+[Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/ref=sr_1_1?crid=2R54E22076JA0&keywords=machine+learning+with+pytorch+and+scikit-learn&qid=1672602887&s=books&sprefix=machine+%2Cstripbooks%2C113&sr=1-1).
+
+Like almost every professional endeavor, the path to continuous growth in Machine Learning (ML) is subjective, personal, and evolving. 
+Subjective and personal because your educational and professional backgrounds would determine the best path. Evolving because what you would learn next 
+would be determined by where you are in the learning journey. Therefore, my recommendations are best suited for ‘relative’ ML beginners from application 
+development or software engineering backgrounds. These beginners can successfully work or have worked on the ‘hello world’ of ML engineering, e.g., 
+Iris dataset and MNIST, etc. Their development background also suggests that they are very comfortable with programming. But they want to postpone the Mathematics
+of ML. But if you tick these boxes, regardless, then come with me.
+
+Abhishek Thakur’s Approaching (Almost) Any Machine Learning Problem: This 300-page book is a completely hands-on turbocharge for learning ML. 
+It assumes basic knowledge of machine and deep learning. You learn by doing. By coding. As Abhishek remarks, “it is better enjoyed with a cup of coffee 
+while coding away.” Despite that, the book briefly introduces terms and terminologies and explains why some choices are made and the tradeoffs to be 
+acknowledged. It also covers NLP, computer vision, and popular tabular data. It touches on stacking and ensembling approaches and concludes with model 
+serving and deployment. This comprehensiveness gives an all-around solid footing exactly and concise. If there is one thing I would like a revised edition 
+of the book to address, it is to include a book index.
+
+Sebastian et al.’s Machine Learning with PyTorch and Scikit-Learn: This 741-page book would be a natural progression from Abhishek Thakur’s book. 
+It introduces the under-the-hood details of the ML algorithms with adequate mathematical notations that would prepare you for ML-oriented linear algebra. 
+The 19-chapter book, asides from its extensive coverage of the ML algorithms, touches on reinforcement learning, graph neural networks, and other deep net architectures like Convolutional Neural Networks. 
+It also provides the working mechanism of PyTorch to give an understanding of its computation graphs. 
+Unlike Abhishek Thakur’s book, which can be completed end-to-end within a specified short period, you may want to consume Sebastian et al.’s book on a 
+need-basis, thus, serving as a long-term reference material.
+
+What could go next? As earlier hinted, this would be determined by your next project or task. In my case, I need more knowledge of deep learning and, 
+at the same time, yearning for more understanding and a granular grasp of the low-level details of the ML algorithms and the underlying mathematical 
+concepts of both ML and DL models. To address these needs, I have Jeremy and Sylvain’s [Deep Learning for Coders](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?crid=UV78WA92XNUE&keywords=deep+learning+for+coders&qid=1672602755&s=books&sprefix=deep+learning+for+%2Cstripbooks%2C107&sr=1-1), Philip’s [Coding the Matrix](https://www.amazon.com/gp/product/0615880991/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1), and March 
+et al.’s [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_1?crid=2MZB6MLH0D6LI&keywords=mathematics+for+machine+learning&qid=1672602665&s=books&sprefix=mathematics+for+ma%2Cstripbooks%2C127&sr=1-1) on my watchlist. 
+
+Have you used any of these books? What are your opinions about them? Any book you would also like to suggest?
+
+Kindly let me know!
