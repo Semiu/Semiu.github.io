@@ -37,3 +37,5 @@ These are not projects to be listed on the resume. But they would definitely hel
 modeling. If you’re from Ibadan, Nigeria, like me, you may want to build an ML model that identifies if someone wears a tribal mark or not. Yeah. 
 A project you will likely curate the dataset, treat it and train your model with it.
 <ol>
+  
+Remember: this is a marathon, not a sprint. The willingness and readiness to continously upskill is important for the long haul.
